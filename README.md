@@ -43,11 +43,15 @@ For more details, please refer to our paper:
 
 ## Number of labels per document distribution
 
-![labels-distribution](ddd)
+<p align="left">
+  <img src="https://github.com/qanastek/MORFITT/raw/main/images/distributions_nbr_elements_colors.png" alt="drawing" width="400"/>
+</p>
 
 ## Co-occurences distribution
 
-![co-occurences-distribution](ddd)
+<p align="left">
+  <img src="https://github.com/qanastek/MORFITT/raw/main/images/distributions_co-references-fixed.png" alt="drawing" width="400"/>
+</p>
 
 # If you use HuggingFace Transformers
 
