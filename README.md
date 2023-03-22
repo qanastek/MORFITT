@@ -61,6 +61,21 @@ dataset = load_dataset("qanastek/MORFITT")
 print(dataset)
 ```
 
+or
+
+```python
+from datasets import load_dataset
+dataset_base = load_dataset(
+    'csv',
+    data_files={
+        'train': f"./train.tsv",
+        'validation': f"./dev.tsv",
+        'test': f"./test.tsv",
+    },
+    delimiter="\t",
+)
+```
+
 # License and Citation
 
 The code is under [Apache-2.0 License](./LICENSE).
