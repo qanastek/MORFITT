@@ -3,7 +3,7 @@
 ## Data ([Zenodo](ddd)) | Publication ([arXiv](ddd) / [HAL](ddd) / [ACL Anthology](ddd)) 
 [Yanis LABRAK](https://www.linkedin.com/in/yanis-labrak-8a7412145/), [Richard DUFOUR](https://cv.hal.science/richard-dufour), [Mickaël ROUVIER](https://cv.hal.science/mickael-rouvier)
 
-[![](https://colab.research.google.com/assets/colab-badge.svg)](ddd) or [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/qanastek/MORFITT/blob/main/TrainTransformers.py)
+[![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/115EixHBcjf-se6xQeaTwZWE1i4idTNbm?usp=sharing) or [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/qanastek/MORFITT/blob/main/TrainTransformers.py)
 
 We introduce MORFITT, the first multi-label corpus for the classification of specialties in the medical field, in French. MORFITT is composed of 3,624 summaries of scientific articles from PubMed, annotated in 12 specialties. The article details the corpus, the experiments and the preliminary results obtained using a classifier based on the pre-trained language model CamemBERT.
 
