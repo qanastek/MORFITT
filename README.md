@@ -1,6 +1,6 @@
 # MORFITT
 
-## Data ([Zenodo](ddd)) | Publication ([arXiv](ddd) / [HAL](ddd) / [ACL Anthology](ddd)) 
+## Data ([Zenodo](https://zenodo.org/record/7893841#.ZFLFDnZBybg)) | Publication ([arXiv](TODO) / [HAL](TODO) / [ACL Anthology](TODO)) 
 [Yanis LABRAK](https://www.linkedin.com/in/yanis-labrak-8a7412145/), [Richard DUFOUR](https://cv.hal.science/richard-dufour), [Mickaël ROUVIER](https://cv.hal.science/mickael-rouvier)
 
 [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/115EixHBcjf-se6xQeaTwZWE1i4idTNbm?usp=sharing) or [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/qanastek/MORFITT/blob/main/TrainTransformers.py)
