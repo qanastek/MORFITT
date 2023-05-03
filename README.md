@@ -7,8 +7,6 @@
 
 We introduce MORFITT, the first multi-label corpus for the classification of specialties in the medical field, in French. MORFITT is composed of 3,624 summaries of scientific articles from PubMed, annotated in 12 specialties. The article details the corpus, the experiments and the preliminary results obtained using a classifier based on the pre-trained language model CamemBERT.
 
-![overview](ddd)
-
 For more details, please refer to our paper:
 
 **MORFITT: A multi-label topic classification for French Biomedical literature** ([arXiv](ddd) / [HAL](ddd) / [ACL Anthology](ddd))
