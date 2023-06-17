@@ -1,6 +1,6 @@
 # MORFITT
 
-## Data ([Zenodo](https://zenodo.org/record/7893841#.ZFLFDnZBybg)) | Publication ([arXiv](TODO) / [HAL](TODO) / [ACL Anthology](TODO)) 
+## Data ([Zenodo](https://zenodo.org/record/7893841#.ZFLFDnZBybg)) | Publication ([arXiv](TODO) / [HAL](https://hal.science/hal-04125879/document) / [ACL Anthology](TODO)) 
 [Yanis LABRAK](https://www.linkedin.com/in/yanis-labrak-8a7412145/), [Richard DUFOUR](https://cv.hal.science/richard-dufour), [Mickaël ROUVIER](https://cv.hal.science/mickael-rouvier)
 
 [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/115EixHBcjf-se6xQeaTwZWE1i4idTNbm?usp=sharing) or [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/qanastek/MORFITT/blob/main/TrainTransformers.py)
@@ -82,13 +82,26 @@ The MORFITT dataset is licensed under *Creative Commons Attribution 4.0 Internat
 If you find this project useful in your research, please cite the following papers:
 
 ```plain
-Yanis LABRAK & al. (COMMING SOON)
+Yanis Labrak, Mickaël Rouvier, Richard Dufour. MORFITT : A multi-label corpus of French scientific articles in the biomedical domain. 30e Conférence sur le Traitement Automatique des Langues Naturelles (TALN) Atelier sur l'Analyse et la Recherche de Textes Scientifiques, Florian Boudin, Jun 2023, Paris, France. ⟨hal-04125879⟩
 ```
 
 or using the bibtex:
 
+
 ```bibtex
-@article{MORFITT,
+@inproceedings{labrak:hal-04125879,
+  TITLE = {{MORFITT : A multi-label corpus of French scientific articles in the biomedical domain}},
+  AUTHOR = {Labrak, Yanis and Rouvier, Micka{\"e}l and Dufour, Richard},
+  URL = {https://hal.science/hal-04125879},
+  BOOKTITLE = {{30e Conf{\'e}rence sur le Traitement Automatique des Langues Naturelles (TALN) Atelier sur l'Analyse et la Recherche de Textes Scientifiques}},
+  ADDRESS = {Paris, France},
+  ORGANIZATION = {{Florian Boudin}},
+  YEAR = {2023},
+  MONTH = Jun,
+  KEYWORDS = {BERT ; RoBERTa ; Transformers ; Biomedical ; Clinical ; Topics ; multi-labels ; BERT ; RoBERTa ; Transformers ; Biom{\'e}dical ; Clinique ; Sp{\'e}cialit{\'e}s ; multi-labels},
+  PDF = {https://hal.science/hal-04125879/file/_ARTS___TALN_RECITAL_2023__MORFITT__Multi_label_topic_classification_for_French_Biomedical_literature%20%285%29.pdf},
+  HAL_ID = {hal-04125879},
+  HAL_VERSION = {v1},
 }
 ```
      
