@@ -78,7 +78,7 @@ dataset_base = load_dataset(
 
 The code is under [Apache-2.0 License](./LICENSE).
 
-The MORFITT dataset is licensed under *Creative Commons Attribution 4.0 International* ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).
+The MORFITT dataset is licensed under *Attribution-ShareAlike 4.0 International* ([CC BY-SA 4.0](https://creativecommons.org/licenses/by/4.0/)).
 If you find this project useful in your research, please cite the following papers:
 
 ```plain
